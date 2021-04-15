@@ -16,7 +16,9 @@ Professional App Working Template Design and Click Events to put your code:
 6. List View Screens for Followers, Leaderboards, Shopping, Reward Points
 7. Cool Sidebar with procedure to copy on all screens
 
-(https://github.com/vinodkotiya/kodular_professional_app/blob/main/Screenshots/Screenshot_2021-03-31-11-22-14-363_com.tester.jpg)
+### Screenshot
+
+![CoolAdmin admin dashboard template preview](https://github.com/vinodkotiya/kodular_professional_app/blob/main/Screenshots/Screenshot_2021-03-31-11-22-14-363_com.tester.jpg)
 
 
 No custom extension used.
