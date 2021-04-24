@@ -1,4 +1,4 @@
-# kodular_professional_app
+## Kodular Professional App Template
 
 Hi Everyone
 
@@ -8,15 +8,21 @@ I wish such type of template should be part of Kodular create where people not p
 
 Professional App Working Template Design and Click Events to put your code:
 
-Splash screen with lotty
-Onboard or introduction flipper screen
-Google & Firebase sign up screen
-Cool Home Screen
-Cool Sub Screens
-List View Screens for Followers, Leaderboards, Shopping, Reward Points
-Cool Sidebar with procedure to copy on all screens
+1. Splash screen with lotty
+2. Onboard or introduction flipper screen
+3. Google & Firebase sign up screen
+4. Cool Home Screen
+5. Cool Sub Screens
+6. List View Screens for Followers, Leaderboards, Shopping, Reward Points
+7. Cool Sidebar with procedure to copy on all screens
+
+### Screenshot
+
+![CoolAdmin admin dashboard template preview](https://github.com/vinodkotiya/kodular_professional_app/blob/main/Screenshots/Screenshot_2021-03-31-11-22-14-363_com.tester.jpg)
+
 
 No custom extension used.
+
 Important point for your Google Signup to work.
 Configure your firebase and get json file to upload on assets. So many youtube tutorials available. If don’t want to test with sign up simply delete the sign up screen from project and remaining screen will work perfectly for further customization. You can check sign up functionality in apk. Tou have to add google-services.json with ensuring following in your json file top section:
 “project_info”: {
